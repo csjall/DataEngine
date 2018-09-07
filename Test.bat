@@ -1,0 +1,1 @@
+LABVIEWCLI -LabVIEWPath "C:\Program Files\National Instruments\LabVIEW 2017\LabVIEW.exe" -OperationName RunVI -VIPath "%cd%\Tools\Test.vi"
